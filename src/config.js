@@ -138,11 +138,11 @@ const config = {
 
 	//项目卡片 其中 字段"show"控制初始卡片的text是否展开
 	projectcards: [
-		{ go: "🚀 前往", img: "/img/sunshine.jpg", title: "Project 1", subtitle: "1,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
-		{ go: "🗂️ 前往", img: "/img/sunshine.jpg", title: "Project 2", subtitle: "2,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
-		{ go: "📝 前往", img: "/img/sunshine.jpg", title: "Project 3", subtitle: "3,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
-		{ go: "👍 前往", img: "/img/sunshine.jpg", title: "Project 4", subtitle: "4,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
-		{ go: "🗃 前往", img: "/img/sunshine.jpg", title: "Project 5", subtitle: "5,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
+		{ go: "🗂️ 前往", img: "/img/sunshine.jpg", title: "QQ群", subtitle: "1041540470", text: "官方互动群", url: "https://qm.qq.com/q/F5gSGHtDR8p", show: false },
+		{ go: "🚀 前往", img: "/img/sunshine.jpg", title: "梯子VPN", subtitle: "备用地址：1：f.zhang-yu.top    2：g.zhang-yu.top", text: "邀请佣金可提现。 注册免费试用，专线高速传输，支持Android/IOS/Windows/Mac。PS：注册收不到验证码请查看垃圾邮箱。官网永久地址： zhang-yu.top", url: "https://www.zhang-yu.top", show: false },
+		{ go: "📝 前往", img: "/img/sunshine.jpg", title: "同人作品", subtitle: "NSFW    Cosplay    动画", text: "大佬二创同人视频，原神崩铁等热门角色", url: "https://app.unifans.io/c/animation_rcy", show: false },
+		{ go: "👍 前往", img: "/img/sunshine.jpg", title: "苹果全球ID", subtitle: "客服QQ3852228775    Q群1041540470", text: "有疑问、不会用、购买可以添加客服QQ解决", url: "https://qm.qq.com/q/F5gSGHtDR8p", show: false },
+		{ go: "🗃 前往", img: "/img/sunshine.jpg", title: "Netflix（奈飞）会员账", subtitle: "客服QQ3852228775    Q群1041540470", text: "有疑问、不会用、购买可以添加客服QQ解决", url: "https://qm.qq.com/q/F5gSGHtDR8p", show: false },
 		{ go: "🎨 前往", img: "/img/sunshine.jpg", title: "Project 6", subtitle: "6,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
 		{ go: "💍 前往", img: "/img/sunshine.jpg", title: "Project 7", subtitle: "7,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
 		{ go: "🔍 前往", img: "/img/sunshine.jpg", title: "Project 8", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
