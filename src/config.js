@@ -1,14 +1,14 @@
 const config = {
 	//网页元数据
 	metaData: {
-		title: 'Leleo的个人主页🎉',
-		description: '欢迎来到Leleo的奇妙世界！',
+		title: 'zhangyu的个人主页🎉',
+		description: '欢迎来到zhangyu的奇妙世界！',
 		keywords: 'Leleo,leleo,个人主页,个人网站',
-		icon: '/favicon.ico'   //网页图标，支持外链
+		icon: '/https://free.picui.cn/free/2025/09/25/68d4b8aa5322b.png'   //网页图标，支持外链
 	},
 
 	avatar: "/img/avatar.jpg", // 头像
-	welcometitle: "Hi, I'm Leleo", // 标题
+	welcometitle: "Hi, I'm zhangyu", // 标题
 
 	// 颜色配置
 	color: {
