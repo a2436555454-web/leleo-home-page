@@ -1,14 +1,14 @@
 const config = {
 	//网页元数据
 	metaData: {
-		title: 'zhangyu的个人主页🎉',
-		description: '欢迎来到zhangyu的奇妙世界！',
-		keywords: 'Leleo,leleo,个人主页,个人网站',
+		title: 'Animation_Rcy的个人主页🎉',
+		description: '欢迎来到Animation_Rcy的奇妙世界！',
+		keywords: 'Animation_Rcy,Animation_Rcy,个人主页,个人网站',
 		icon: '/https://free.picui.cn/free/2025/09/25/68d4b8aa5322b.png'   //网页图标，支持外链
 	},
 
 	avatar: "/img/avatar.jpg", // 头像
-	welcometitle: "Hi, I'm zhangyu", // 标题
+	welcometitle: "Animation_Rcy", // 标题
 
 	// 颜色配置
 	color: {
@@ -22,7 +22,7 @@ const config = {
 	blur: 5, // 毛玻璃模糊效果
 
 	// 我的标签
-	tags: ['乐观开朗', '温柔体贴', '随和亲切', '冷静沉着', '才思敏捷', '风趣幽默', '刚正不阿', '善解人意'],
+	//tags: ['乐观开朗', '温柔体贴', '随和亲切', '冷静沉着', '才思敏捷', '风趣幽默', '刚正不阿', '善解人意'],
 
 	// 默认背景壁纸
 	background: {
@@ -46,9 +46,9 @@ const config = {
 	},
 
 	//极坐标图数据
-	polarChart: {
-		skills: ['Vue.js', 'React', 'JavaScript', 'Node', 'Java', 'Python', 'linux', 'Docker', 'MySQL', 'MongoDB', 'AWS'],
-		skillPoints: [85, 78, 88, 90, 80, 78, 85, 65, 82, 78, 70],
+	//polarChart: {
+		//skills: ['Vue.js', 'React', 'JavaScript', 'Node', 'Java', 'Python', 'linux', 'Docker', 'MySQL', 'MongoDB', 'AWS'],
+		//skillPoints: [85, 78, 88, 90, 80, 78, 85, 65, 82, 78, 70],
 	},
 
 	//社交按钮
