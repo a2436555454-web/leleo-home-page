@@ -22,7 +22,7 @@ const config = {
 	blur: 5, // 毛玻璃模糊效果
 
 	// 我的标签
-	tags: ['苹果全球ID', '推特全球ID', 'Telegram账号', 'TikTok账号', 'Steam全球号', 'Ins全球账号', 'ChatAI账号', '谷歌全球ID', 'Netflix（奈飞）会员账号', 'VPN机场'],
+	tags: ['苹果全球ID', '推特全球ID', 'Telegram账号', 'TikTok账号', 'Steam全球号', 'VPN机场'],
 
 	// 默认背景壁纸
 	background: {
@@ -47,26 +47,26 @@ const config = {
 
 	//极坐标图数据
 	polarChart: {
-		skills: [],
-		skillPoints: [],
+		skills: ['Netflix', 'ChatGPT Plus代充', 'GPT Plus', 'Spotify', '苹果全球ID', '推特全球ID', 'Telegram账号', 'TikTok账号', 'Youtube', 'Disney', 'HBO Max'],
+		skillPoints: [85, 78, 88, 90, 80, 78, 85, 65, 82, 78, 70],
 	},
 
 	//社交按钮
 	socialPlatformIcons: [
-		{ icon: "mdi-github", link: "https://www.github.com/leleo886" },
-		{ icon: "mdi-email", link: "mailto:leleo886@foxmail.com" },
-		{ icon: "mdi-qqchat", link: "https://im.qq.com/" },
-		{ icon: "mdi-wechat", link: "https://wx.qq.com/" },
-		{ icon: "mdi-youtube", link: "https://www.youtube.com" },
-		{ icon: "mdi-facebook", link: "https://www.facebook.com" }
+		{ icon: "mdi-twitter", link: "https://x.com/Animation_Rcy" },
+		{ icon: "mdi-email", link: "mailto:cyrwangzhang@outlook.com" },
+		{ icon: "mdi-qqchat", link: "https://qm.qq.com/q/GTA6H1w9ie" },
+		{ icon: "mdi-account", link: "https://app.unifans.io/c/animation_rcy" },
+		{ icon: "mdi-youtube", link: "https://www.youtube.com/@Animation_Rcy" },
+		{ icon: "mdi-facebook", link: "https://www.facebook.com/Animation.Rcy" }
 	],
 
 	//打字机
 	typeWriterStrings: [
-		"如果你看到了这行字，说明我已经成功吸引到了你的注意力。",
-		"顶峰的少年，给了你所有细节，你却说我不是迪迦，给不了你想要的光。",
-		"心简单，世界就简单，幸福才会生长；心自由，生活就自由，到哪都有快乐。",
-		"生命太短，没有时间留给遗憾，若不是终点，请微笑一直向前。"
+		"Netflix奈飞官方正规礼品卡订阅会员账号。",
+		"苹果账号，未绑定手机号和邮箱，您购买后将获得登录账号、密码、密保问题及答案、生日。。",
+		"机场专线高速传输，支持Android/IOS/Windows/Mac。",
+		"苹果iTunes充值卡，正规可囤。"
 	],
 
 	//音乐播放配置，采用MetingJS Api(https://github.com/metowolf/MetingJS)
