@@ -4,7 +4,7 @@ const config = {
 		title: 'Animation_Rcy的个人主页🎉',
 		description: '欢迎来到Animation_Rcy的奇妙世界！',
 		keywords: 'Animation_Rcy,Animation_Rcy,个人主页,个人网站',
-		icon: '/https://free.picui.cn/free/2025/09/25/68d4b8aa5322b.png'   //网页图标，支持外链
+		icon: 'https://free.picui.cn/free/2025/09/25/68d4b8aa5322b.png'   //网页图标，支持外链
 	},
 
 	avatar: "/img/avatar.jpg", // 头像
@@ -64,7 +64,7 @@ const config = {
 	//打字机
 	typeWriterStrings: [
 		"Netflix奈飞官方正规礼品卡订阅会员账号。",
-		"苹果账号，未绑定手机号和邮箱，您购买后将获得登录账号、密码、密保问题及答案、生日。。",
+		"苹果账号，未绑定手机号和邮箱，您购买后将获得登录账号、密码、密保问题及答案、生日。",
 		"机场专线高速传输，支持Android/IOS/Windows/Mac。",
 		"苹果iTunes充值卡，正规可囤。"
 	],
