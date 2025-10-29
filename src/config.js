@@ -22,7 +22,7 @@ const config = {
 	blur: 5, // 毛玻璃模糊效果
 
 	// 我的标签
-	Rcy: ['乐观开朗', '温柔体贴', '随和亲切', '冷静沉着', '才思敏捷', '风趣幽默', '刚正不阿', '善解人意'],
+	tags: ['苹果全球ID', '推特全球ID', 'Telegram账号', 'TikTok账号', 'Steam全球号', 'Ins全球账号', 'ChatAI账号', '谷歌全球ID', 'Netflix（奈飞）会员账号', 'VPN机场'],
 
 	// 默认背景壁纸
 	background: {
@@ -47,8 +47,8 @@ const config = {
 
 	//极坐标图数据
 	polarChart: {
-		skills: ['Vue.js', 'React', 'JavaScript', 'Node', 'Java', 'Python', 'linux', 'Docker', 'MySQL', 'MongoDB', 'AWS'],
-		skillPoints: [85, 78, 88, 90, 80, 78, 85, 65, 82, 78, 70],
+		skills: [],
+		skillPoints: [],
 	},
 
 	//社交按钮
