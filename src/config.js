@@ -7,7 +7,7 @@ const config = {
 		icon: 'https://free.picui.cn/free/2025/09/25/68d4b8aa5322b.png'   //网页图标，支持外链
 	},
 
-	avatar: "/img/avatar.jpg", // 头像
+	avatar: "/img/屏幕截图 2025-04-28 021806.png", // 头像
 	welcometitle: "Animation_Rcy", // 标题
 
 	// 颜色配置
